@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Li Yi's Homapage"
+title                    : "Yi Li's Homapage"
 description              : "Homepage of Yi Li. "
 repository               : "HuaYuuu/HuaYuuu.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yi Li (李祎)"
-  avatar           : "images/13289574002631663.jpeg"
+  avatar           : "images/blue_square.jpeg"
   bio              : "Huazhong University of Science and Technology (HUST)"
   location         : "Wuhan, Hubei Province, China"
   employer         :

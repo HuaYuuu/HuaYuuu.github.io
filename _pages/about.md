@@ -23,12 +23,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04*: 🎉🎉 The proposed **Varicolored Haze Dataset (VHD)** in **CVPR2022** has been released. [**Github Repository**](https://github.com/HuaYuuu/PDI2A-CVPR2022)
+- *2022.03*: 🎉🎉 One paper for varicolored haze removal is accepted to **CVPR2022**!
+- *2021.11*: 🎉🎉 One paper for joint image deraining and segmentation is accepted to **AAAI2022**!
+- *2021.11*: 🎉🎉 The code and the corresponding dataset of the proposed category-aware aircraft landmark detection have been released [**Github Repository**](https://github.com/HuaYuuu/CALDN-pytorch-release)
+- *2021.11*: 🎉🎉 One collaborate paper for knowledge-guided unsupervised deraining is accepted to **ACMMM2021**.
+- *2021.06*: 🎉🎉 One collaborate paper for aircraft landmark detection is accepted to **ICIG2021**.
+- *2020.12*: 🎉🎉 One paper perspective variant aircraft landmark detection is accepted to **IEEE Signal Processing Letter**!
+- *2020.04*: 🎉🎉 One collaborate paper is accepted to **IEEE Transactions on Geoscience and Remote Sensing**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/melt.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun

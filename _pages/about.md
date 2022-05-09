@@ -34,12 +34,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Projects/figure1_v8_homepage_exhibition.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Projects/CALDN_figure1_v8_homepage_exhibition.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 Category-aware Aircraft Landmark Detection, **Yi Li**, Yi Chang, Yuntong Ye, Xu Zou, Sheng Zhong, and Luxin Yan
 
-**IEEE Signal Processing Letter** \| [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/9298853) \| [**PDF**](https://huayuuu.github.io/files/2022SPL_CALDN.pdf) \| [**Cite**](https://huayuuu.github.io/files/CLADN_cite.txt) <strong><span class='show_paper_citations' data='11778708618982578405'></span></strong>
+**IEEE Signal Processing Letter** \| [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/9298853) \| [**PDF**](https://huayuuu.github.io/files/2022SPL_CALDN.pdf) \| [**Cite**](https://huayuuu.github.io/files/CLADN_cite.txt)
 - We have released the code and the proposed dataset in the [**Github Repository**](https://github.com/HuaYuuu/CALDN-pytorch-release). 
 - This work focuses on the perspective variant aircraft landmark detection task. We are the first to consider category discrepancy to facilitate aircraft landmark detection. Moreover, we also propose the first perspective variant aircraft landmark dataset (PVALD).
 </div>

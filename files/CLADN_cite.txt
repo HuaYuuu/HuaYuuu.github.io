@@ -1,0 +1,9 @@
+@article{li2020category,
+  title={Category-aware aircraft landmark detection},
+  author={Li, Yi and Chang, Yi and Ye, Yuntong and Zou, Xu and Zhong, Sheng and Yan, Luxin},
+  journal={IEEE Signal Processing Letters},
+  volume={28},
+  pages={61--65},
+  year={2020},
+  publisher={IEEE}
+}

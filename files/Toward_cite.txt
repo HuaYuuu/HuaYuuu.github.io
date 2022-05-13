@@ -1,0 +1,10 @@
+@article{chang2019toward,
+  title={Toward universal stripe removal via wavelet-based deep convolutional neural network},
+  author={Chang, Yi and Chen, Meiya and Yan, Luxin and Zhao, Xi-Le and Li, Yi and Zhong, Sheng},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={58},
+  number={4},
+  pages={2880--2897},
+  year={2019},
+  publisher={IEEE}
+}

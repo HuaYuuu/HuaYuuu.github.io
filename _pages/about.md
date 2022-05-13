@@ -37,14 +37,20 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Projects/CALDN_figure1_v8_homepage_exhibition.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Category-aware Aircraft Landmark Detection, **Yi Li**, Yi Chang, Yuntong Ye, Xu Zou, Sheng Zhong, and Luxin Yan
-
-**IEEE Signal Processing Letter** \| [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/9298853) \| [**PDF**](https://huayuuu.github.io/files/2022SPL_CALDN.pdf) \| [**Cite**](https://huayuuu.github.io/files/CLADN_cite.txt)
+**<font color=Aqua > Category-aware Aircraft Landmark Detection. </font>** **Yi Li**, Yi Chang, Yuntong Ye, Xu Zou, Sheng Zhong, and Luxin Yan, **IEEE Signal Processing Letter** \| [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/9298853) \| [**PDF**](https://huayuuu.github.io/files/2022SPL_CALDN.pdf) \| [**Cite**](https://huayuuu.github.io/files/CLADN_cite.txt)
 - We have released the code and the proposed dataset in the [**Github Repository**](https://github.com/HuaYuuu/CALDN-pytorch-release). 
 - This work focuses on the perspective variant aircraft landmark detection task. We are the first to consider category discrepancy to facilitate aircraft landmark detection. Moreover, we also propose the first perspective variant aircraft landmark dataset (PVALD).
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Projects/Toward_figure.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**<font color=Aqua > Toward Universal Stripe Removal via Wavelet-Based Deep Convolutional Neural Network. </font>** Yi Chang, Meiya Chen, Luxin Yan, Xi-Le Zhao, **Yi Li**, Sheng Zhong, **IEEE Transactions on Geoscience and Remote Sensing** \| [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/8936525) \| [**PDF**](https://huayuuu.github.io/files/2019TGRS_Toward.pdf) \| [**Cite**](https://huayuuu.github.io/files/Toward_cite.txt)
+- This work focuses on the perspective variant aircraft landmark detection task. We are the first to consider category discrepancy to facilitate aircraft landmark detection. Moreover, we also propose the first perspective variant aircraft landmark dataset (PVALD).
+</div>
+</div>
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**

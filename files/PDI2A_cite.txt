@@ -1,0 +1,8 @@
+@InProceedings{li2022physically,
+    author    = {Li, Yi and Chang, Yi and Gao, Yan and Yu, Changfeng and Yan, Luxin},
+    title     = {Physically Disentangled Intra- and Inter-domain Adaptation for Varicolored Haze Removal},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {0-0}
+}

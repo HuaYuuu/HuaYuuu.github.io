@@ -1,0 +1,6 @@
+@article{li2022close,
+  title={Close the Loop: A Unified Bottom-up and Top-down Paradigm for Joint Image Deraining and Segmentation},
+  author={Li, Yi and Chang, Yi and Yu, Changfeng and Yan, Luxin},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  year={2022}
+}

@@ -1,0 +1,7 @@
+@inproceedings{yu2021unsupervised,
+  title={Unsupervised Image Deraining: Optimization Model Driven Deep CNN},
+  author={Yu, Changfeng and Chang, Yi and Li, Yi and Zhao, Xile and Yan, Luxin},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={2634--2642},
+  year={2021}
+}

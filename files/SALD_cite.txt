@@ -1,0 +1,8 @@
+@inproceedings{ye2021skeleton,
+  title={Skeleton-Aware Network for Aircraft Landmark Detection},
+  author={Ye, Yuntong and Chang, Yi and Li, Yi and Yan, Luxin},
+  booktitle={International Conference on Image and Graphics},
+  pages={185--197},
+  year={2021},
+  organization={Springer}
+}
